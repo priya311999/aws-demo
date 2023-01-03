@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h3>Deploying Github Using AWS Elastic Beanstalk</h3>
 
 <?php
 echo "Hello World!";
